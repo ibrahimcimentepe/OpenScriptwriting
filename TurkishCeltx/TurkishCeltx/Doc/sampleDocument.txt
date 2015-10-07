@@ -1,0 +1,61 @@
+<tt ÇARPRAZ NEYLİ HİKAYE_İBRAHİM ÇİMENTEPE
+/tt>
+<sc DIS_TERAS_GECE
+   <ac
+      <ch ENES/>, Bogaziçi Üniversitesi kampüs içinde bir binanin terasinda oturmaktadir. 
+      Dizlerini çenesine çekmis, cenin pozisyonuna yakin bir pozisyona sahiptir. 
+      Sirtinda çapraz asili bir ney vardir ve atletine kan bulasmistir, 
+      fakat üzerinde yaralandigina dair herhangi bir iz yoktur. 
+      Yüzüne sirayla yansiyan degisik renklerdeki isiklar bir ambulans ya da polis arabasinin sirenlerini andirmaktadir. 
+      Gözlerinden belli belirsiz yaslar akmakta ve elinde yeni yakilmis bir sigara vardir.
+      
+      Sahne <ch ENES/>’in bu durusuyla ayni durusa sahip <ch KÜÇÜK ENES/>’le devam eder.
+   /ac>
+/sc>
+<sc IÇ_KORIDOR_AKSAM
+   <ac
+      <ch GAMZE/> açik duran bir kapidan içeri girer. 
+      <cm 11.03.2015 17.00
+         Gamze'nin kizil saçlari onu tanimlayan bir yapi. 
+         Boynundaki beyaz atki ise Cemil'in hediyesi, 
+      />
+      <ch CEMIL/> de arkasindan girecektir. 
+      <ch ENES/> omzuna dokunur.
+   />
+   <di ENES
+      <pa
+         Ney'i uzatarak.
+         <cm 11.03.2015 17.00
+            Gamze'nin kizil saçlari onu tanimlayan bir yapi. 
+            Boynundaki beyaz atki ise Cemil'in hediyesi, 
+         />
+      />
+      Abi al..
+   />
+   <di CEMIL
+      E, oglum sen de gelsene..
+   />
+   <di ENES
+      Yok be abi, benim isim var.
+   />
+   <di CEMIL
+      Ben de çok duramiycam oglum zaten..
+   />
+   <di ENES
+      Ben gelmeyim ya..
+   />
+   <ac
+      CEMIL duraksar, onaylamamistir. 
+      Yine de daha fazla israr etmez.
+   />
+   <di CEMIL
+      <pa
+         Ney'i alir.
+      />
+      Iyi madem..
+   />
+   <ac
+      <ch ENES/> ayrilirken <ch CEMIL/>'in girdigi odadan alkislar ve hos geldin sesleri yükselmektedir. 
+      <ch ENES/> ise yavas adimlarla farkli bir yöne dogru ilerler.
+   />
+/>

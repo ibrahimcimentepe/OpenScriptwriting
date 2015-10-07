@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurkishCeltx", "TurkishCeltx\TurkishCeltx.csproj", "{C2A38B1B-6816-4F96-95D1-4C5FE5DF01F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FsRichTextBox", "FsRichTextBox\FsRichTextBox\FsRichTextBox.csproj", "{091CE5BC-D5C3-4752-A244-053664873941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A38B1B-6816-4F96-95D1-4C5FE5DF01F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A38B1B-6816-4F96-95D1-4C5FE5DF01F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A38B1B-6816-4F96-95D1-4C5FE5DF01F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A38B1B-6816-4F96-95D1-4C5FE5DF01F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091CE5BC-D5C3-4752-A244-053664873941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091CE5BC-D5C3-4752-A244-053664873941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091CE5BC-D5C3-4752-A244-053664873941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091CE5BC-D5C3-4752-A244-053664873941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

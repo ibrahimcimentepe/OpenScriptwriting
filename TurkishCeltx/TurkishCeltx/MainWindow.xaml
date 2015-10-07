@@ -1,0 +1,45 @@
+﻿<Window x:Class="TurkishCeltx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:view="clr-namespace:TurkishCeltx.View"
+        WindowState="Maximized"
+        Title="TurkishCeltx version 0.0.1" Height="434.375" Width="612">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New Project" Command="{Binding NewProjectCommand}"/>
+                <MenuItem Header="_Open Project" Command="{Binding OpenProjectCommand}"/>
+                <Separator/>
+                <MenuItem Header="_Save Project" Command="{Binding SaveProjectCommand}"/>
+                <MenuItem Header="Save Project _As" Command="{Binding SaveProjectAsCommand}"/>
+                <Separator/>
+                <MenuItem Header="E_xit" Command="{Binding ExitCommand}"/> 
+            </MenuItem>
+            <MenuItem Header="_Edit">
+                <MenuItem Header="_Undo" Command="{Binding UndoCommand}"/>
+                <MenuItem Header="_Redo" Command="{Binding RedoCommand}"/>
+                <Separator/>
+                <MenuItem Header="Cu_t" Command="{Binding CutCommand}"/>
+                <MenuItem Header="_Copy" Command="{Binding CopyCommand}"/>
+                <MenuItem Header="_Paste" Command="{Binding PasteCommand}"/>
+                <Separator/>
+                <MenuItem Header="Select _All" Command="{Binding SelectAllCommand}"/>
+                <Separator/>
+                <MenuItem Header="_Find" Command="{Binding FindCommand}"/>
+                <MenuItem Header="_Replace" Command="{Binding ReplaceCommand}"/>
+            </MenuItem>
+            <MenuItem Header="_Script">
+                <MenuItem Header="_Import Script" Command="{Binding ImportScriptCommand}"/>
+                <MenuItem Header="_Export Script" Command="{Binding ExportScriptCommand}"/>
+            </MenuItem>
+            <MenuItem Header="_Help">
+                <MenuItem Header="_About TurkishCeltx" Command="{Binding OpenAboutPageCommand}"/>
+            </MenuItem>
+        </Menu>
+        <DockPanel>
+            <view:ScenesSummaryView DockPanel.Dock="Left" DataContext="{Binding scenesSummaryVm}" Width="200"/>
+            <view:AddNoteView DockPanel.Dock="Right" DataContext="{Binding addNoteVm}" Width="200"/>
+            <view:MainTextAreaView DataContext="{Binding mainTextAreaVm}" DockPanel.Dock="Top"/>
+        </DockPanel>        
+    </DockPanel>
+</Window>

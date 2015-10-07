@@ -1,0 +1,11 @@
+<sc 1_DIS_TERAS_GECE
+   <ac
+      <ch ENES/>, Bogaziçi Üniversitesi kampüs içinde bir binanin terasinda oturmaktadir. 
+      Dizlerini çenesine çekmis, cenin pozisyonuna yakin bir pozisyona sahiptir. 
+      Sirtinda çapraz asili bir ney vardir ve atletine kan bulasmistir, fakat üzerinde yaralandigina dair herhangi bir iz yoktur. 
+      Yüzüne sirayla yansiyan degisik renklerdeki isiklar bir ambulans ya da polis arabasinin sirenlerini andirmaktadir. 
+      Gözlerinden belli belirsiz yaslar akmakta ve elinde yeni yakilmis bir sigara vardir.
+      
+      Sahne <ch ENES/>’in bu durusuyla ayni durusa sahip <ch KÜÇÜK ENES/>’le devam eder.
+   />
+/>
